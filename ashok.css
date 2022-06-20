@@ -155,7 +155,7 @@ button:hover i{
     }
     .row{
         flex-direction: column-reverse;
-        transform: translateY(-150px);
+        transform: translateY(-100px);
         margin-bottom: 0;
         padding-top: 0;
     }
